@@ -1,0 +1,5 @@
+This project contains the ColdFusion Code and SQL generation scripts for the AIR offline sync demo. 
+
+Install the ColdFusion code in folder in the root of your CF server named "hoytstaff."
+Install the SQL onto a MYSQL server of your choosing, set the credentials how you like, and create a 
+	datasource named "hoytstaff"
